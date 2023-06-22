@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/redux-practic-auth/static/css/main.7acaea2f.css",
-    "main.js": "/redux-practic-auth/static/js/main.07d3183d.js",
+    "main.css": "/redux-practic-auth/static/css/main.f058beb6.css",
+    "main.js": "/redux-practic-auth/static/js/main.49b4d573.js",
+    "static/js/266.7b5451a5.chunk.js": "/redux-practic-auth/static/js/266.7b5451a5.chunk.js",
+    "static/css/40.1e05f24e.chunk.css": "/redux-practic-auth/static/css/40.1e05f24e.chunk.css",
+    "static/js/40.b9439c1f.chunk.js": "/redux-practic-auth/static/js/40.b9439c1f.chunk.js",
+    "static/css/635.e2937cc9.chunk.css": "/redux-practic-auth/static/css/635.e2937cc9.chunk.css",
+    "static/js/635.0494c004.chunk.js": "/redux-practic-auth/static/js/635.0494c004.chunk.js",
+    "static/css/853.40e66e5b.chunk.css": "/redux-practic-auth/static/css/853.40e66e5b.chunk.css",
+    "static/js/853.2abe8ad7.chunk.js": "/redux-practic-auth/static/js/853.2abe8ad7.chunk.js",
+    "static/js/270.e2984952.chunk.js": "/redux-practic-auth/static/js/270.e2984952.chunk.js",
     "index.html": "/redux-practic-auth/index.html",
-    "main.7acaea2f.css.map": "/redux-practic-auth/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/redux-practic-auth/static/js/main.07d3183d.js.map"
+    "main.f058beb6.css.map": "/redux-practic-auth/static/css/main.f058beb6.css.map",
+    "main.49b4d573.js.map": "/redux-practic-auth/static/js/main.49b4d573.js.map",
+    "266.7b5451a5.chunk.js.map": "/redux-practic-auth/static/js/266.7b5451a5.chunk.js.map",
+    "40.1e05f24e.chunk.css.map": "/redux-practic-auth/static/css/40.1e05f24e.chunk.css.map",
+    "40.b9439c1f.chunk.js.map": "/redux-practic-auth/static/js/40.b9439c1f.chunk.js.map",
+    "635.e2937cc9.chunk.css.map": "/redux-practic-auth/static/css/635.e2937cc9.chunk.css.map",
+    "635.0494c004.chunk.js.map": "/redux-practic-auth/static/js/635.0494c004.chunk.js.map",
+    "853.40e66e5b.chunk.css.map": "/redux-practic-auth/static/css/853.40e66e5b.chunk.css.map",
+    "853.2abe8ad7.chunk.js.map": "/redux-practic-auth/static/js/853.2abe8ad7.chunk.js.map",
+    "270.e2984952.chunk.js.map": "/redux-practic-auth/static/js/270.e2984952.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.f058beb6.css",
+    "static/js/main.49b4d573.js"
   ]
 }
